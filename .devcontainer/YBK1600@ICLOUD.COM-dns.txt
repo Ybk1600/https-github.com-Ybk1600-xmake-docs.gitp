@@ -1,0 +1,66 @@
+A Records :
+
+[0] Name : YBK1600@ICLOUD.COM | ttl: 600 | ip: 17.253.144.10
+
+------------------
+
+AAAA Records :
+
+[0] Name : YBK1600@ICLOUD.COM | ttl: 600 | ip: 2620:149:af0::10
+
+------------------
+
+CNAME Records : None
+
+------------------
+
+MX Records :
+
+[0] Name : YBK1600@ICLOUD.COM | ttl: 3600 | ip: 17.57.156.30 | mx: mx02.mail.ICLOUD.COM. | preference: 10
+[1] Name : YBK1600@ICLOUD.COM | ttl: 3600 | ip: 17.42.251.62 | mx: mx01.mail.ICLOUD.COM. | preference: 10
+
+------------------
+
+NS Records :
+
+[0] Name : YBK1600@ICLOUD.COM | ttl: 43200 | value: b.ns.apple.COM.
+[1] Name : YBK1600@ICLOUD.COM | ttl: 43200 | value: a.ns.apple.COM.
+[2] Name : YBK1600@ICLOUD.COM | ttl: 43200 | value: c.ns.apple.COM.
+[3] Name : YBK1600@ICLOUD.COM | ttl: 43200 | value: d.ns.apple.COM.
+
+------------------
+
+PTR Records : None
+
+------------------
+
+SRV Records : None
+
+------------------
+
+SOA Records :
+
+[0] Name : YBK1600@ICLOUD.COM | ttl: 43200 | mname: usmsc2-extxfr-001.dns.apple.COM. | rname: hostmaster.apple.COM.
+
+------------------
+
+TXT Records :
+
+[0] Name : YBK1600@ICLOUD.COM | ttl: 3600 | value: google-site-verification=knAEOH4QxR29I4gjRkpkvmUmP2AA7WrDk8Kq0wu9g9o
+[1] Name : YBK1600@ICLOUD.COM | ttl: 3600 | value: google-site-verification=Ik3jMkCjHnUgyIoFR0Kw74srr0H5ynFmUk8fyY1uBck
+[2] Name : YBK1600@ICLOUD.COM | ttl: 3600 | value: v=spf1 ip4:17.41.0.0/16 ip4:17.58.0.0/16 ip4:17.142.0.0/15 ip4:17.57.155.0/24 ip4:17.57.156.0/24 ip4:10.162.0.0/16 ip4:144.178.36.0/24 ip4:144.178.38.0/24 ip4:112.19.199.64/29 ip4:112.19.242.64/29 ip4:222.73.195.64/29 ip4:157.255.1.64/29  ip4:106.39.212.64/29 ip4:123.126.78.64/29 ip4:183.240.219.64/29 ip4:39.156.163.64/29 ~all
+
+------------------
+
+CAA Records : None
+
+------------------
+
+DS Records : None
+
+------------------
+
+DNSKEY Records : None
+
+------------------
+
